@@ -19,5 +19,6 @@ http://faculty.cord.edu/thureen/thureen%20-%20Chapter%2011%20-%20File%20Sharing.
 https://scriptingosx.com/2018/02/single-brackets-vs-double-brackets/
 
 https://www.delftstack.com/howto/linux/difference-between-single-and-double-square-brackets-in-bash/
+https://stackoverflow.com/questions/20252964/fork-and-n
 
 
